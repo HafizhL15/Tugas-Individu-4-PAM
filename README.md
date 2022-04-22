@@ -1,2 +1,4 @@
 # Tugas-Individu-4-PAM-
-Hafizh Londata RB 119140049 
+Nama  : Hafizh Londata 
+NIM   : 119140049
+Kelas : RB
